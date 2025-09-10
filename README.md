@@ -18,7 +18,7 @@ Built with **Python** and **Tkinter**.
 ## 🚀 Usage
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YourUsername/shutdown-timer.git
+   git clone https://github.com/iskandar-me/shutdown-win.git
    cd shutdown-timer
 ```
 
