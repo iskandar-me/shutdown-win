@@ -65,7 +65,7 @@ def cancel_shutdown():
 # GUI setup
 root = tk.Tk()
 root.title("Shutdown Timer (24-hour Input)")
-root.geometry("640x400")
+root.geometry("420x240")
 
 tk.Label(root, text="Enter shutdown time (24h, e.g. 1324 → 13:24):").pack(pady=10)
 entry = tk.Entry(root, font=("Arial", 14))
