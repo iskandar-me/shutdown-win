@@ -16,12 +16,29 @@ Built with **Python** and **Tkinter**.
 ---
 
 ## 🚀 Usage
-1. Run the app (`python shut.py` or the compiled `shut.exe`).
-2. Enter the time you want your laptop/PC to shut down:
-   - Example: `1324` → auto-formats → `13:24`.
-3. Click **Set** → countdown begins.
-4. Your computer will shut down automatically when the countdown reaches 0.
-5. If you change your mind → click **Cancel**, shutdown will be aborted and the app will close.
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/YourUsername/shutdown-timer.git
+   cd shutdown-timer
+```
+
+2. Run the app:
+
+   ```bash
+   python shut.py
+   ```
+
+   Or use the compiled version:
+
+   ```bash
+   shut.exe
+   ```
+3. Enter the time you want your laptop/PC to shut down:
+
+   * Example: `1324` → auto-formats → `13:24`.
+4. Click **Set** → countdown begins.
+5. Your computer will shut down automatically when the countdown reaches 0.
+6. If you change your mind → click **Cancel**. The shutdown will be aborted and the app will close.
 
 ---
 
@@ -29,3 +46,4 @@ Built with **Python** and **Tkinter**.
 To create a standalone `.exe` file:
 ```bash
 pyinstaller --onefile --noconsole shut.py
+```
