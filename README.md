@@ -20,10 +20,9 @@ Built with **Python** and **Tkinter**.
    ```
    git clone https://github.com/iskandar-me/shutdown-win.git
    cd shutdown-win
-```
+   ```
 
 2. Run the app:
-
    ```
    python shut.py
    ```
