@@ -19,7 +19,7 @@ Built with **Python** and **Tkinter**.
 1. Clone this repository:
    ```bash
    git clone https://github.com/iskandar-me/shutdown-win.git
-   cd shutdown-timer
+   cd shutdown-win
 ```
 
 2. Run the app:
