@@ -17,20 +17,20 @@ Built with **Python** and **Tkinter**.
 
 ## 🚀 Usage
 1. Clone this repository:
-   ```bash
+   ```
    git clone https://github.com/iskandar-me/shutdown-win.git
    cd shutdown-win
 ```
 
 2. Run the app:
 
-   ```bash
+   ```
    python shut.py
    ```
 
    Or use the compiled version:
 
-   ```bash
+   ```
    shut.exe
    ```
 3. Enter the time you want your laptop/PC to shut down:
@@ -44,6 +44,6 @@ Built with **Python** and **Tkinter**.
 
 ## 🛠️ Build to EXE
 To create a standalone `.exe` file:
-```bash
+```
 pyinstaller --onefile --noconsole shut.py
 ```
